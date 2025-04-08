@@ -3,8 +3,23 @@
     "name": "that-was-easy",
     "slug": "that-was-easy",
     "version": "1.0.0",
+    "sdkVersion": "47.0.0",
+    "owner": "hoavo1620",
+    "extra": {
+      "eas": {
+        "projectId": "5f5b5b57-a831-458f-9496-29f8e3f889ad"
+      }
+    },
     "android": {
       "package": "vn.com.hoaxvo.thatwaseasy"
-    }
+    },
+    "ios": {
+      "bundleIdentifier": "vn.com.hoaxvo.thatwaseasy"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
   }
 }
