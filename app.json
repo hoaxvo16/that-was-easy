@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "that-was-easy",
+    "slug": "that-was-easy",
+    "version": "1.0.0",
+    "android": {
+      "package": "vn.com.hoaxvo.thatwaseasy"
+    }
+  }
+}
